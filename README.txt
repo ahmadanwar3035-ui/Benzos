@@ -1,0 +1,1 @@
+Open index.html in your browser. All styling is in style.css. Photos and logo are reconstructed approximations of the supplied reference. Original video, payment, booking and contact destinations are not connected. The HTML/CSS files require no installation. Google Fonts requires an internet connection.
